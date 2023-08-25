@@ -1,0 +1,77 @@
+/*
+  ////////////////////////
+  ////Friends List 
+  ////////////////////////
+  */
+
+.peopleListItem-u6dGxF {
+    backdrop-filter: blur(20px);
+    border: 0px solid;
+    border-radius: 5px;
+    margin-bottom: 13px;
+    margin-top: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: solid 2px var(--accent);
+    background-color: var(--background-floating);
+    border-radius: 1px;
+}
+
+.peopleListItem-u6dGxF:hover {
+    backdrop-filter: blur(20px);
+    box-shadow: inset 0px 3px 3px 5px rgba(0, 0, 0, 0.198);
+    transition: 0.3s;
+    border-radius: 5px;
+    margin-bottom: 13px;
+    margin-top: 13px;
+}
+
+.theme-dark .peopleListItem-u6dGxF {
+    backdrop-filter: blur(20px);
+    border: 0px solid;
+    border-radius: 5px;
+    margin-bottom: 13px;
+    margin-top: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: solid 2px var(--accentD);
+    background-color: var(--background-floating);
+    border-radius: 1px;
+}
+
+.itemCard-3Etziu {
+    background-color: var(--background-floating);
+    border-radius: 1px;
+}
+
+.itemCard-3Etziu:hover {
+    border-right: solid 2px var(--accent);
+    background-color: var(--background-floating);
+    border-radius: 1px;
+    margin-left: 5px;
+    transition: 0.3s;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+/* Dark */
+.theme-dark .itemCard-3Etziu:hover {
+    border-right: solid 2px var(--accentD);
+    background-color: var(--background-floating);
+    border-radius: 1px;
+    margin-left: 5px;
+    transition: 0.3s;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+.inner-2pOSmK {
+    border: solid 1.5px var(--accent);
+    border-radius: 15px;
+    box-shadow: inset 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+/* Dark */
+.theme-dark .inner-2pOSmK {
+    border: solid 1.5px var(--accentD);
+    border-radius: 15px;
+    box-shadow: inset 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+}

@@ -1,0 +1,202 @@
+/*
+  ///////////////////////////////////////
+  ////////////// Title Bar
+  //////////////////////////////////////
+  */
+
+.container-ZMc96U.themed-Hp1KC_ {
+    background: var(--background-secondary-alt) !important;
+    border-bottom: 0.5px solid rgba(186, 186, 186, 0.386);
+    border-radius: 5px 0px 0px 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.header-3OsQeK {
+    background: var(--background-secondary-alt) !important;
+    border-bottom: 0.5px solid rgba(186, 186, 186, 0.386);
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.animatedContainer-2laTjx,
+.bannerImage-ubW8K- {
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 5px;
+    margin-right: 5px;
+}
+
+.communityInfoVisible-3zc5_s .header-3OsQeK,
+.communityInfoVisible-3zc5_s .header-3OsQeK:hover,
+.hasBanner-2IrYih .header-3OsQeK,
+.hasBanner-2IrYih .header-3OsQeK:hover {
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0);
+    background-color: transparent !important;
+}
+
+.communityInfoPill-2Mll66 {
+    display: none;
+}
+
+.children-3xh0VB:after {
+    background: rgba(0, 0, 0, 0);
+}
+
+.title-17SveM {
+    font-weight: 750;
+    color: rgba(73, 73, 73);
+}
+
+.clickable-ZD7xvu .icon-2xnN2Y {
+    color: rgba(115, 115, 115);
+}
+
+.theme-dark .children-3xh0VB:after {
+    display: none;
+}
+
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
+    background: var(--background-secondary-alt) !important;
+    border-radius: 15px;
+    box-shadow: inset 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+.searchBar-3TnChZ .searchBarComponent-3N7dCG:hover {
+    background: var(--background-secondary-alt) !important;
+    border-radius: 15px;
+    box-shadow: 0px 5px 5px 1px rgba(0, 0, 0, 0.198);
+    transition: 0.5s;
+}
+
+.full-motion .searchBar-jGtisZ {
+    background: var(--background-secondary) !important;
+    border-radius: 10px;
+    box-shadow: inset 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
+}
+
+.full-motion .searchBar-jGtisZ:hover {
+    background: var(--background-secondary) !important;
+    border-radius: 10px;
+    box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
+    transition: 0.3s;
+}
+
+.children-3xh0VB:after {
+    display: none;
+}
+
+.wordmarkWindows-2dq6rw {
+    color: var(--accent);
+}
+
+/* --------------------- Faux macOS Title  🖥️ -------------------
+  > Credit: Me, Myself, and I
+*/
+
+/* The faux title bar itself */
+.typeMacOS-3V4xXE {
+    position: relative;
+    width: 100%;
+    height: 35px;
+}
+.theme-dark .typeMacOS-3V4xXE {
+    background: var(--PGBackgroundD);
+}
+.theme-light .typeMacOS-3V4xXE {
+    background: var(--PGBackground);
+}
+
+/* Adujustments to accommodate for the blank space used for the stoplight*/
+.platform-osx .wrapper-1_HaEi {
+    margin: 0;
+    padding: 0;
+}
+
+/* --------------------- macOS Title Bar 🍎 🖥️ -------------------
+  > See License: https://github.com/discord-extensions/macos-titlebar/blob/master/LICENSE
+  > Credit: LuckFire/Hoofer/Boloped 
+  */
+
+/* Light */
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+    background-color: var(--accent);
+}
+
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+    background-color: var(--accent-selected);
+}
+
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+    background-color: var(--accent-hover);
+}
+
+/* Dark */
+.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+    background-color: var(--accentD);
+}
+
+.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+    background-color: var(--accent-selectedD);
+}
+
+.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+    background-color: var(--accent-hoverD);
+}
+
+.withFrame-2dL45i {
+    height: 10px;
+    margin-top: 14px;
+    margin-right: 14px;
+}
+
+.platform-win .typeWindows-2-g3UY .wordmark-2u86JB g {
+    display: none;
+}
+
+.platform-win .typeWindows-2-g3UY .winButton-3UMjdg {
+    width: 12px;
+    height: 12px;
+    margin-left: 8px;
+    border-radius: 15px;
+    background-color: var(--background-primary);
+    background-size: 0;
+    -webkit-app-region: no-drag;
+}
+
+.platform-win .sidebar-1tnWFu .header-3OsQeK,
+.platform-win .sidebar-1tnWFu .searchBarComponent-3N7dCG {
+    -webkit-app-region: no-drag;
+}
+
+.platform-win .sidebar-1tnWFu .searchBar-3TnChZ {
+    -webkit-app-region: drag;
+}
+
+.chat-2ZfjoI {
+    z-index: 103;
+}
+
+.chat-2ZfjoI .container-ZMc96U {
+    -webkit-app-region: drag;
+}
+
+.chat-2ZfjoI .container-ZMc96U .topic-11NuQZ,
+.chat-2ZfjoI .container-ZMc96U .title-17SveM,
+.chat-2ZfjoI .container-ZMc96U .nicknames-10Sg6e {
+    -webkit-app-region: no-drag;
+}
+
+.platform-win .typeWindows-2-g3UY .winButton-3UMjdg svg {
+    display: none;
+}
+
+.platform-win.app-focused .typeWindows-2-g3UY:hover div.winButton-3UMjdg {
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}

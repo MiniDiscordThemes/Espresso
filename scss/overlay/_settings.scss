@@ -1,0 +1,99 @@
+/*
+  ///////////////////////////////////////
+  ////////////// Settings
+  //////////////////////////////////////
+  */
+.theme-dark .accountProfileCard-lbN7n-,
+.theme-dark .profileBannerPreview-3mLIdO,
+.banner-2boKnS .theme-dark .accountProfileCard-lbN7n-,
+.theme-dark .profileBannerPreview-3mLIdO {
+    box-shadow: 1px 1px 1px 1px brgba(0, 0, 0, 0.198);
+    border-right: solid 2px var(--accentD);
+    background-color: var(--PGBackground2D);
+    border-radius: 1px;
+}
+
+.theme-dark .background-3d_SjE,
+.theme-dark .fieldList-in8WkP {
+    background-color: var(--PGBackground2D);
+}
+
+.theme-light .accountProfileCard-lbN7n-,
+.theme-light .profileBannerPreview-3mLIdO,
+.banner-2boKnS .theme-light .accountProfileCard-lbN7n-,
+.theme-light .profileBannerPreview-3mLIdO {
+    box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    border-right: solid 2px var(--accent);
+    background-color: var(--PGBackground2);
+    border-radius: 1px;
+}
+
+.theme-light .background-3d_SjE,
+.theme-light .fieldList-in8WkP {
+    background-color: var(--PGBackground2);
+}
+
+.theme-dark .side-1lrxIh .item-2GWPIy:hover {
+    margin-left: 5px;
+    border-left: solid 1px var(--accentD);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.theme-light .side-1lrxIh .item-2GWPIy:hover {
+    margin-left: 5px;
+    border-left: solid 1px var(--accent);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.theme-dark .side-1lrxIh .item-2GWPIy:hover {
+    margin-left: 5px;
+    border-left: solid 1px var(--accentD);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.theme-light .side-1lrxIh .item-2GWPIy:hover {
+    margin-left: 5px;
+    border-left: solid 1px var(--accent);
+    transition: 0.3s;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.theme-dark .side-1lrxIh .header-2F5_LB {
+    color: var(--accentD);
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.theme-light .side-1lrxIh .header-2F5_LB {
+    color: var(--accent);
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.info-3pQQBb > span:first-child::after {
+    content: "\a Espresso (2.2023)";
+    color: var(--text-muted);
+    white-space: pre;
+    text-transform: none;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+    line-height: 17px !important;
+}
+
+.theme-dark .sidebarRegionScroller-FXiQOh {
+    border-right: solid 1px var(--accentD);
+    background-color: var(--PGBackground2D);
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-light .sidebarRegionScroller-FXiQOh {
+    border-right: solid 1px var(--accent);
+    background-color: var(--PGBackground2);
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.198);
+}
