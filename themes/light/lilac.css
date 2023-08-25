@@ -1,9 +1,0 @@
-:root {
-  --PGBackground: #EFDDF5;
-  --PGBackground2: #E9D5F1;
-  --PGTextBackground: #E9D5F1;
-  --accent: rgb(167, 59, 255);
-  --accent-hover: rgba(167, 59, 255, 0.977);
-  --accent-selected: rgb(167, 59, 255, 0.612);
-  --accent-focused: rgb(167, 59, 255, 0.2);
-}
