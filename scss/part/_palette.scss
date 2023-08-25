@@ -1,0 +1,111 @@
+/*------------------- Source to Project Garrison --------------*/
+
+code,
+.codeBlockText-28BOxV,
+.codeLine-2C-9aH,
+.markup-eYLPri code.inline,
+.after_inlineCode-2_JXPm,
+.before_inlineCode-1zngJj,
+.inlineCode-ERyvy_ {
+    font-family: mono, monospace;
+}
+
+/* Color Pallete */
+
+.theme-light {
+    --background-tertiary: var(--PGBackground);
+    --background-secondary: var(--PGBackground);
+    --background-secondary-alt: var(--PGBackground2);
+    --background-primary: var(--PGBackground);
+    --channeltextarea-background: var(--PGTextBackground);
+    --background-accent: var(--accent);
+    --background-modifier-hover: var(--PGBackground2);
+    --background-modifier-active: var(--PGBackground2);
+    --background-modifier-selected: var(--accent-selected);
+    --deprecated-card-bg: #12141f63;
+    --background-floating: var(--PGBackground2);
+    --deprecated-quickswitcher-input-background: rgba(237, 237, 237);
+    --elevation-low: none;
+    --toast-background: #ffffff !important;
+    --toast-header: #ffffff !important;
+    --toast-contents: #ffffff !important;
+    --brand-experiment-500: var(--accent-selected);
+    --brand-experiment-560: var(--accent-selected);
+}
+
+.theme-dark {
+    --background-tertiary: var(--PGBackgroundD);
+    --background-secondary: var(--PGBackgroundD);
+    --background-secondary-alt: var(--PGBackground2D);
+    --background-primary: var(--PGBackgroundD);
+    --channeltextarea-background: var(--PGTextBackgroundD);
+    --background-accent: var(--accent);
+    --background-modifier-hover: var(--PGBackground2D);
+    --background-modifier-active: var(--PGBackground2D);
+    --background-modifier-selected: var(--accent-selectedD);
+    --deprecated-card-bg: #12141f63;
+    --background-floating: var(--PGBackground2D);
+    --deprecated-quickswitcher-input-background: rgba(237, 237, 237);
+    --elevation-low: none;
+    --toast-background: #ffffff !important;
+    --toast-header: #ffffff !important;
+    --toast-contents: #ffffff !important;
+    --brand-experiment-500: var(--accent-selectedD);
+    --brand-experiment-560: var(--accent-selectedD);
+}
+
+/* 
+  ///////////////////////////////
+  //////////// THEME SPECIFIC
+  //////////////////////////////
+  */
+
+.theme-dark .modeSelected-3DmyhH .icon-2W8DHg,
+.theme-dark .modeSelected-3DmyhH:hover .icon-2W8DHg,
+.theme-dark .modeUnread-3Cxepe .icon-2W8DHg,
+.theme-dark .modeUnread-3Cxepe:hover .icon-2W8DHg,
+.theme-dark .mainContent-uDGa6R .overflow-1wOqNV,
+.theme-dark .mainContent-uDGa6R {
+    color: var(--PGColorTextD) !important;
+}
+
+.theme-dark .messageContent-2t3eCI,
+.theme-dark .modeConnected-NrO4cP .name-28HaxV,
+.theme-dark .modeConnected-NrO4cP:hover .name-28HaxV,
+.theme-dark .modeSelected-3DmyhH .name-28HaxV,
+.theme-dark .modeSelected-3DmyhH:hover .name-28HaxV,
+.theme-dark .modeUnread-3Cxepe .name-28HaxV,
+.theme-dark .modeUnread-3Cxepe:hover .name-28HaxV,
+.theme-dark .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV,
+.theme-dark .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV,
+.theme-dark .title-17SveM {
+    color: var(--PGColorTextD);
+}
+
+.numberBadge-37OJ3S,
+.unreadRelevant-2f-VSK,
+.newBadge-1bHewI,
+.item-2LIpTv {
+    background: var(--accent) !important;
+}
+
+.theme-dark .numberBadge-37OJ3S,
+.theme-dark .unreadRelevant-2f-VSK,
+.theme-dark .newBadge-1bHewI,
+.theme-dark .item-2LIpTv {
+    background: var(--accentD) !important;
+}
+
+.item-2LIpTv {
+    margin-left: 4px;
+    width: 4px;
+    border-radius: 5px 5px 5px 5px;
+    transition: 0.5s;
+}
+
+.theme-dark .item-2LIpTv {
+    margin-left: 4px;
+    width: 4px;
+    border-radius: 5px 5px 5px 5px;
+    transition: 0.5s;
+}

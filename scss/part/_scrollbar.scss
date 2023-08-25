@@ -1,0 +1,153 @@
+/*
+  ///////////////////////////////////////
+  ////////////// Sliders
+  //////////////////////////////////////
+  */
+
+/* Sliders */
+.barFill-3RgCsY {
+    background: var(--brand-experiment);
+}
+
+.scroller-kQBbkU::-webkit-scrollbar-track,
+.auto-2TJ1RH::-webkit-scrollbar-track,
+.peopleColumn-1wMU14::-webkit-scrollbar-track {
+    background-color: var(--background-secondary-alt);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.scroller-kQBbkU::-webkit-scrollbar-track,
+.auto-2TJ1RH::-webkit-scrollbar-track,
+.peopleColumn-1wMU14::-webkit-scrollbar-track {
+    box-shadow: inset 0px 0px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+.scroller-kQBbkU::-webkit-scrollbar-thumb,
+.auto-2TJ1RH::-webkit-scrollbar-thumb,
+.thin-RnSY0a::-webkit-scrollbar-thumb,
+.peopleColumn-1wMU14::-webkit-scrollbar-thumb {
+    background-color: var(--accent);
+    border: solid var(--background-secondary-alt) 3px;
+    transition: 0.5s;
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+.scroller-kQBbkU::-webkit-scrollbar-thumb:hover,
+.auto-2TJ1RH::-webkit-scrollbar-thumb:hover,
+.thin-RnSY0a::-webkit-scrollbar-thumb:hover,
+.peopleColumn-1wMU14::-webkit-scrollbar-thumb:hover {
+    background-color: var(--accent);
+    transition: 0.5s;
+}
+
+/* Dark */
+.theme-dark .scroller-kQBbkU::-webkit-scrollbar-thumb,
+.theme-dark .auto-2TJ1RH::-webkit-scrollbar-thumb,
+.theme-dark .thin-RnSY0a::-webkit-scrollbar-thumb,
+.theme-dark .peopleColumn-1wMU14::-webkit-scrollbar-thumb {
+    background-color: var(--accentD);
+    border: solid var(--background-secondary-alt) 3px;
+    transition: 0.5s;
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-dark .scroller-kQBbkU::-webkit-scrollbar-thumb:hover,
+.theme-dark .auto-2TJ1RH::-webkit-scrollbar-thumb:hover,
+.theme-dark .thin-RnSY0a::-webkit-scrollbar-thumb:hover,
+.theme-dark .peopleColumn-1wMU14::-webkit-scrollbar-thumb:hover {
+    background-color: var(--accentD);
+    transition: 0.5s;
+}
+
+/* Sidebar "selected" Accents */
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy,
+.topPill-3DJJNV .themed-qqoYp3.selected-1sf9UK.item-2GWPIy,
+.interactiveSelected-29CP8y {
+    background-color: rgba(0, 0, 0, 0.039) !important;
+    border-left: solid 1px var(--accent);
+    text-align: center;
+    transition: 0.5s;
+    border-radius: 1px;
+}
+
+.channel-1Shao0:hover {
+    margin-left: 5px;
+    border-left: solid 1px var(--accent);
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    transition: 0.3s;
+    border-radius: 1px;
+}
+
+.mainContent-20q_Hp:hover {
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    transition: 0.3s;
+}
+
+.unreadRelevant-2f-VSK {
+    background-color: var(--accent);
+    width: 4px;
+    border-radius: 5px 5px 5px 5px;
+    transition: 0.5s;
+}
+
+.theme-light .unread-2wipsx {
+    border-radius: 3px;
+    border-left: 4px solid var(--accent);
+    margin-right: 9px;
+    margin-left: 15px;
+    background: var(--PGBackground2);
+    color: var(--accent);
+}
+
+/* Dark */
+.theme-dark .side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy,
+.theme-dark .topPill-3DJJNV .themed-qqoYp3.selected-1sf9UK.item-2GWPIy,
+.theme-dark .interactiveSelected-29CP8y {
+    background-color: rgba(0, 0, 0, 0.039) !important;
+    border-left: solid 1px var(--accentD);
+    text-align: center;
+    transition: 0.5s;
+    border-radius: 1px;
+}
+
+.theme-dark .channel-1Shao0:hover {
+    margin-left: 5px;
+    border-left: solid 1px var(--accentD);
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    transition: 0.3s;
+    border-radius: 1px;
+}
+
+.theme-dark .mainContent-20q_Hp:hover {
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.198);
+    transition: 0.3s;
+}
+
+.theme-dark .unreadRelevant-2f-VSK {
+    background-color: var(--accentD);
+    width: 4px;
+    border-radius: 5px 5px 5px 5px;
+    transition: 0.5s;
+}
+
+.theme-dark .unread-2wipsx {
+    border-radius: 3px;
+    border-left: 4px solid var(--accentD);
+    background: var(--PGBackground2D);
+    box-shadow: var(--accentD);
+    margin-right: 9px;
+    margin-left: 15px;
+}
+
+/* "New" Mentions */
+.mention-3XBnnZ {
+    background-color: var(--accent);
+    transition: 0.3s;
+}
+
+/* Dark */
+.theme-dark .mention-3XBnnZ {
+    background-color: var(--accentD);
+    transition: 0.3s;
+}

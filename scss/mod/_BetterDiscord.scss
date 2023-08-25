@@ -1,0 +1,50 @@
+/* 
+  ///////////////////////////////////////////
+  //////////// Special Client Mod Bullshit
+  ///////////////////////////////////////////
+*/
+
+/* BetterDiscord */
+.theme-dark .bd-addon-list.bd-grid-view .bd-addon-card,
+.theme-dark .bd-addon-list .bd-addon-card {
+    border-right: solid 2px var(--accentD);
+    background-color: var(--PGBackground2D);
+    border-radius: 1px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-light .bd-addon-list.bd-grid-view .bd-addon-card,
+.theme-light .bd-addon-list .bd-addon-card {
+    border-right: solid 2px var(--accent);
+    background-color: var(--PGBackground2);
+    border-radius: 1px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
+}
+
+.theme-light .bd-button {
+    background-color: var(--accent) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: var(--accent);
+    color: var(--PGBackground);
+    text-align: center;
+    transition: 0.9s;
+}
+
+.theme-dark .bd-button {
+    background-color: var(--accentD) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: var(--accentD);
+    color: var(--PGBackgroundD);
+    text-align: center;
+    transition: 0.9s;
+}
+
+.bd-addon-list .bd-footer .bd-links,
+.bd-addon-list .bd-footer .bd-links a,
+.bd-addon-list .bd-footer .bd-addon-button {
+    border-radius: 30px;
+    margin-left: 2px;
+    margin-right: 2px;
+}

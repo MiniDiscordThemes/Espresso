@@ -1,0 +1,51 @@
+/* 
+  ///////////////////////////////
+  //////////// POP OUTS
+  //////////////////////////////
+  */
+
+.theme-dark .scroller-nxCRu_,
+.theme-dark .messagesPopoutWrap-3zryHW:hover,
+.theme-dark .recentMentionsPopout-2bI1ZN {
+    border-right: var(--accentD) 2px solid;
+    border-radius: 1px;
+    transition: 0.3s;
+}
+
+.scroller-nxCRu_,
+.messagesPopoutWrap-3zryHW:hover,
+.recentMentionsPopout-2bI1ZN {
+    border-right: var(--accent) 2px solid;
+    border-radius: 1px;
+    transition: 0.3s;
+}
+
+.theme-dark .popout-3gby1q,
+.drawerSizingWrapper-1txdWG,
+.theme-dark .quickswitcher-pKcM9U {
+    background-color: var(--PGBackgroundD);
+    border-right: var(--accentD) 2px solid;
+    border-radius: 1px;
+    transition: 0.3s;
+}
+
+.popout-3gby1q,
+.drawerSizingWrapper-1txdWG,
+.quickswitcher-pKcM9U {
+    background-color: var(--PGBackground);
+    border-right: var(--accent) 2px solid;
+    border-radius: 1px;
+    transition: 0.3s;
+}
+
+.theme-dark .focusLock-bHVOlV,
+.theme-dark .root-1CAIjD,
+.theme-dark .footerSeparator-3U8YsT {
+    background-color: var(--PGBackground2D);
+}
+
+.focusLock-bHVOlV,
+.root-1CAIjD,
+.footerSeparator-3U8YsT {
+    background-color: var(--PGBackground2);
+}
