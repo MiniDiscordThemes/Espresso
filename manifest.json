@@ -1,18 +1,27 @@
 {
-  "id": "dev.SlippingGitty.Espresso",
+  "id": "net.saltssaumure.Espresso",
   "name": "Espresso",
   "description": "A soft and colorful Discord theme",
-  "author": {
-    "name": "vozer 🎀",
-    "discordID": "359175647257690113",
-    "github": "SlippingGittys-Discord-Themes"
-  },
+  "author": [
+    {
+      "name": "vozer 🎀",
+      "discordID": "359175647257690113",
+      "github": "SlippingGittys-Discord-Themes"
+    },
+    {
+      "name": "Saltssaumure",
+      "discordID": "134142022092062720",
+      "github": "Saltssaumure"
+    }
+  ],
   "version": "2.0.0",
   "updater": {
-    "type": "github",
-    "id": "SlippingGittys-Discord-Themes/Espresso-Discord-Theme"
+    "type": "store",
+    "id": "net.saltssaumure.Espresso"
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "discordEspresso.theme.css"
+  "main": "scss/espresso.scss",
+  "source": "https://github.com/MiniDiscordThemes/Espresso",
+  "image": []
 }
