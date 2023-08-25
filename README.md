@@ -110,7 +110,20 @@
 <details>
 <summary>Customisation example screenshots</summary>
 
-[![Turquoise][turquoise]][turquoise-link]
+![Turquoise][turquoise]
+![Lilac][lilac]
+![Newspaper][newspaper]
+![Tan][tan]
+![French Vanilla][french-vanilla]
+![Material Dark][material-dark]
+![Clear][clear]
+![Fuoco][fuoco]
+![Dark Pastel][dark-pastel]
+![Twitter Blue][twitter-blue]
+![Evening][evening]
+![Tokyo Night][tokyo-night]
+![Thinkpad][thinkpad]
+![OLED][oled]
 
 </details>
 
