@@ -1,7 +1,7 @@
 {
   "id": "net.saltssaumure.Espresso",
   "name": "Espresso",
-  "description": "A soft and colorful Discord theme",
+  "description": "A soft and colorful Discord theme.",
   "author": [
     {
       "name": "vozer 🎀",
@@ -23,5 +23,8 @@
   "type": "replugged-theme",
   "main": "scss/espresso.scss",
   "source": "https://github.com/MiniDiscordThemes/Espresso",
-  "image": []
+  "image": [
+    "https://cdn.discordapp.com/attachments/1142305515439923260/1144468248541278268/espresso-light.png",
+    "https://cdn.discordapp.com/attachments/1142305515439923260/1144468248134426776/espresso-dark.png"
+  ]
 }
