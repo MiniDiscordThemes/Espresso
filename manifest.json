@@ -4,17 +4,17 @@
   "description": "A soft and colorful Discord theme.",
   "author": [
     {
-      "name": "vozer 🎀",
-      "discordID": "359175647257690113",
-      "github": "SlippingGittys-Discord-Themes"
-    },
-    {
       "name": "Saltssaumure",
       "discordID": "134142022092062720",
       "github": "Saltssaumure"
+    },
+    {
+      "name": "vozer 🎀",
+      "discordID": "359175647257690113",
+      "github": "SlippingGittys-Discord-Themes"
     }
   ],
-  "version": "3.0.1",
+  "version": "3.0.2",
   "updater": {
     "type": "store",
     "id": "net.saltssaumure.Espresso"
