@@ -154,11 +154,11 @@
     margin-right: 14px;
 }
 
-.platform-win .typeWindows-2-g3UY .wordmark-2u86JB g {
+.platform-win .typeWindows-2-g3UY :is(.wordmark-2u86JB, .wordmark-3wYFg6) g {
     display: none;
 }
 
-.platform-win .typeWindows-2-g3UY .winButton-3UMjdg {
+.platform-win .typeWindows-2-g3UY :is(.winButton-3UMjdg, .winButton-3SigSb) {
     width: 12px;
     height: 12px;
     margin-left: 8px;
@@ -177,25 +177,25 @@
     -webkit-app-region: drag;
 }
 
-.chat-2ZfjoI {
+:is(.chat-2ZfjoI, .chat-9g_3Xj) {
     z-index: 103;
 }
 
-.chat-2ZfjoI .container-ZMc96U {
+:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U {
     -webkit-app-region: drag;
 }
 
-.chat-2ZfjoI .container-ZMc96U .topic-11NuQZ,
-.chat-2ZfjoI .container-ZMc96U .title-17SveM,
-.chat-2ZfjoI .container-ZMc96U .nicknames-10Sg6e {
+:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U .topic-11NuQZ,
+:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U .title-17SveM,
+:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U .nicknames-10Sg6e {
     -webkit-app-region: no-drag;
 }
 
-.platform-win .typeWindows-2-g3UY .winButton-3UMjdg svg {
+.platform-win .typeWindows-2-g3UY :is(.winButton-3UMjdg, .winButton-3SigSb) svg {
     display: none;
 }
 
-.platform-win.app-focused .typeWindows-2-g3UY:hover div.winButton-3UMjdg {
+.platform-win.app-focused .typeWindows-2-g3UY:hover div:is(.winButton-3UMjdg, .winButton-3SigSb) {
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
