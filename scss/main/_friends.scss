@@ -4,7 +4,7 @@
   ////////////////////////
   */
 
-.peopleListItem-u6dGxF {
+.peopleListItem_d14722 {
     backdrop-filter: blur(20px);
     border: 0px solid;
     border-radius: 5px;
@@ -17,7 +17,7 @@
     border-radius: 1px;
 }
 
-.peopleListItem-u6dGxF:hover {
+.peopleListItem_d14722:hover {
     backdrop-filter: blur(20px);
     box-shadow: inset 0px 3px 3px 5px rgba(0, 0, 0, 0.198);
     transition: 0.3s;
@@ -26,7 +26,7 @@
     margin-top: 13px;
 }
 
-.theme-dark .peopleListItem-u6dGxF {
+.theme-dark .peopleListItem_d14722 {
     backdrop-filter: blur(20px);
     border: 0px solid;
     border-radius: 5px;
@@ -39,12 +39,12 @@
     border-radius: 1px;
 }
 
-.itemCard-3Etziu {
+.itemCard__1f162 {
     background-color: var(--background-floating);
     border-radius: 1px;
 }
 
-.itemCard-3Etziu:hover {
+.itemCard__1f162:hover {
     border-right: solid 2px var(--accent);
     background-color: var(--background-floating);
     border-radius: 1px;
@@ -54,7 +54,7 @@
 }
 
 /* Dark */
-.theme-dark .itemCard-3Etziu:hover {
+.theme-dark .itemCard__1f162:hover {
     border-right: solid 2px var(--accentD);
     background-color: var(--background-floating);
     border-radius: 1px;
@@ -63,14 +63,14 @@
     box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.198);
 }
 
-.inner-2pOSmK {
+.inner__999f6 {
     border: solid 1.5px var(--accent);
     border-radius: 15px;
     box-shadow: inset 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
 }
 
 /* Dark */
-.theme-dark .inner-2pOSmK {
+.theme-dark .inner__999f6 {
     border: solid 1.5px var(--accentD);
     border-radius: 15px;
     box-shadow: inset 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
