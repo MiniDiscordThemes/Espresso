@@ -4,7 +4,7 @@
   //////////////////////////////////////
   */
 
-.container-ZMc96U.themed-Hp1KC_ {
+.container__11d72.themed_b152d4 {
     background: var(--background-secondary-alt) !important;
     border-bottom: 0.5px solid rgba(186, 186, 186, 0.386);
     border-radius: 5px 0px 0px 5px;
@@ -14,7 +14,7 @@
     margin-right: 5px;
 }
 
-.header-3OsQeK {
+.header__104ca {
     background: var(--background-secondary-alt) !important;
     border-bottom: 0.5px solid rgba(186, 186, 186, 0.386);
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.198);
@@ -24,73 +24,73 @@
     border-radius: 5px 5px 5px 5px;
 }
 
-.animatedContainer-2laTjx,
-.bannerImage-ubW8K- {
+.animatedContainer__341f6,
+.bannerImage__39c51 {
     border-radius: 5px 5px 5px 5px;
     margin-right: 5px;
     margin-right: 5px;
 }
 
-.communityInfoVisible-3zc5_s .header-3OsQeK,
-.communityInfoVisible-3zc5_s .header-3OsQeK:hover,
-.hasBanner-2IrYih .header-3OsQeK,
-.hasBanner-2IrYih .header-3OsQeK:hover {
+.communityInfoVisible_b0482d .header__104ca,
+.communityInfoVisible_b0482d .header__104ca:hover,
+.hasBanner_e78601 .header__104ca,
+.hasBanner_e78601 .header__104ca:hover {
     border-bottom: 0.5px solid rgba(0, 0, 0, 0);
     background-color: transparent !important;
 }
 
-.communityInfoPill-2Mll66 {
+.communityInfoPill_d3f445 {
     display: none;
 }
 
-.children-3xh0VB:after {
+.children__32014:after {
     background: rgba(0, 0, 0, 0);
 }
 
-.title-17SveM {
+.title__9e2b0 {
     font-weight: 750;
     color: rgba(73, 73, 73);
 }
 
-.clickable-ZD7xvu .icon-2xnN2Y {
+.clickable_d23a1a .icon__4cb88 {
     color: rgba(115, 115, 115);
 }
 
-.theme-dark .children-3xh0VB:after {
+.theme-dark .children__32014:after {
     display: none;
 }
 
-.searchBar-3TnChZ .searchBarComponent-3N7dCG {
+.searchBar_e4ea2a .searchBarComponent__22760 {
     background: var(--background-secondary-alt) !important;
     border-radius: 15px;
     box-shadow: inset 3px 3px 3px 1px rgba(0, 0, 0, 0.198);
 }
 
-.searchBar-3TnChZ .searchBarComponent-3N7dCG:hover {
+.searchBar_e4ea2a .searchBarComponent__22760:hover {
     background: var(--background-secondary-alt) !important;
     border-radius: 15px;
     box-shadow: 0px 5px 5px 1px rgba(0, 0, 0, 0.198);
     transition: 0.5s;
 }
 
-.full-motion .searchBar-jGtisZ {
+.full-motion .searchBar_e0c60b {
     background: var(--background-secondary) !important;
     border-radius: 10px;
     box-shadow: inset 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
 }
 
-.full-motion .searchBar-jGtisZ:hover {
+.full-motion .searchBar_e0c60b:hover {
     background: var(--background-secondary) !important;
     border-radius: 10px;
     box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.198);
     transition: 0.3s;
 }
 
-.children-3xh0VB:after {
+.children__32014:after {
     display: none;
 }
 
-.wordmarkWindows-2dq6rw {
+.wordmarkWindows__05c46 {
     color: var(--accent);
 }
 
@@ -99,20 +99,20 @@
 */
 
 /* The faux title bar itself */
-.typeMacOS-3V4xXE {
+.typeMacOS__496b0 {
     position: relative;
     width: 100%;
     height: 35px;
 }
-.theme-dark .typeMacOS-3V4xXE {
+.theme-dark .typeMacOS__496b0 {
     background: var(--PGBackgroundD);
 }
-.theme-light .typeMacOS-3V4xXE {
+.theme-light .typeMacOS__496b0 {
     background: var(--PGBackground);
 }
 
 /* Adujustments to accommodate for the blank space used for the stoplight*/
-.platform-osx .wrapper-1_HaEi {
+.platform-osx .wrapper_a7e7a8 {
     margin: 0;
     padding: 0;
 }
@@ -123,42 +123,42 @@
   */
 
 /* Light */
-.platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+.platform-win.app-focused .typeWindows__5fa63 .winButtonClose__73489 {
     background-color: var(--accent);
 }
 
-.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+.platform-win.app-focused .typeWindows__5fa63 .winButtonMinMax__72f36:nth-child(2n) {
     background-color: var(--accent-selected);
 }
 
-.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+.platform-win.app-focused .typeWindows__5fa63 .winButtonMinMax__72f36:nth-child(3n) {
     background-color: var(--accent-hover);
 }
 
 /* Dark */
-.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+.theme-dark .platform-win.app-focused .typeWindows__5fa63 .winButtonClose__73489 {
     background-color: var(--accentD);
 }
 
-.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+.theme-dark .platform-win.app-focused .typeWindows__5fa63 .winButtonMinMax__72f36:nth-child(2n) {
     background-color: var(--accent-selectedD);
 }
 
-.theme-dark .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+.theme-dark .platform-win.app-focused .typeWindows__5fa63 .winButtonMinMax__72f36:nth-child(3n) {
     background-color: var(--accent-hoverD);
 }
 
-.withFrame-2dL45i {
+.withFrame__485f4 {
     height: 10px;
     margin-top: 14px;
     margin-right: 14px;
 }
 
-.platform-win .typeWindows-2-g3UY :is(.wordmark-2u86JB, .wordmark-3wYFg6) g {
+.platform-win .typeWindows__5fa63 .wordmark__0d178 g {
     display: none;
 }
 
-.platform-win .typeWindows-2-g3UY :is(.winButton-3UMjdg, .winButton-3SigSb) {
+.platform-win .typeWindows__5fa63 .winButton__88672 {
     width: 12px;
     height: 12px;
     margin-left: 8px;
@@ -168,34 +168,34 @@
     -webkit-app-region: no-drag;
 }
 
-.platform-win .sidebar-1tnWFu .header-3OsQeK,
-.platform-win .sidebar-1tnWFu .searchBarComponent-3N7dCG {
+.platform-win .sidebar_ded4b5 .header__104ca,
+.platform-win .sidebar_ded4b5 .searchBarComponent__22760 {
     -webkit-app-region: no-drag;
 }
 
-.platform-win .sidebar-1tnWFu .searchBar-3TnChZ {
+.platform-win .sidebar_ded4b5 .searchBar_e4ea2a {
     -webkit-app-region: drag;
 }
 
-:is(.chat-2ZfjoI, .chat-9g_3Xj) {
+.chat__52833 {
     z-index: 103;
 }
 
-:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U {
+.chat__52833 .container__11d72 {
     -webkit-app-region: drag;
 }
 
-:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U .topic-11NuQZ,
-:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U .title-17SveM,
-:is(.chat-2ZfjoI, .chat-9g_3Xj) .container-ZMc96U .nicknames-10Sg6e {
+.chat__52833 .container__11d72 .topic__16ae3,
+.chat__52833 .container__11d72 .title__9e2b0,
+.chat__52833 .container__11d72 .nicknames__7447d {
     -webkit-app-region: no-drag;
 }
 
-.platform-win .typeWindows-2-g3UY :is(.winButton-3UMjdg, .winButton-3SigSb) svg {
+.platform-win .typeWindows__5fa63 .winButton__88672 svg {
     display: none;
 }
 
-.platform-win.app-focused .typeWindows-2-g3UY:hover div:is(.winButton-3UMjdg, .winButton-3SigSb) {
+.platform-win.app-focused .typeWindows__5fa63:hover div.winButton__88672 {
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
