@@ -4,8 +4,15 @@
   //////////////////////////////////////
   */
 
-.theme-dark .autocompleteInner__8785c {
-    background-color: var(--PGBackgroundD);
+.theme-dark {
+    .autocompleteInner__8785c,
+    .container__10dc7,
+    .header__60bef,
+    .scrollerContainer_bf5dbd,
+    .emptyPage__3e15d,
+    .container__7590f {
+        background-color: var(--PGBackgroundD);
+    }
 }
 
 .autocompleteInner__8785c {
