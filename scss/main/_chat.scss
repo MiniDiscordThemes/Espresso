@@ -10,9 +10,14 @@
     .header__60bef,
     .scrollerContainer_bf5dbd,
     .emptyPage__3e15d,
-    .container__7590f {
+    .container__7590f,
+    .pageWrapper_fef757 {
         background-color: var(--PGBackgroundD);
     }
+}
+
+.theme-dark .searchBox_a63854 {
+    background-color: var(--PGTextBackgroundD);
 }
 
 .autocompleteInner__8785c {
