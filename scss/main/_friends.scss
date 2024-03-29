@@ -4,7 +4,7 @@
   ////////////////////////
   */
 
-.peopleListItem_d14722 {
+.peopleListItem_dab480 {
     backdrop-filter: blur(20px);
     border: 0px solid;
     border-radius: 5px;
@@ -17,7 +17,7 @@
     border-radius: 1px;
 }
 
-.peopleListItem_d14722:hover {
+.peopleListItem_dab480:hover {
     backdrop-filter: blur(20px);
     box-shadow: inset 0px 3px 3px 5px rgba(0, 0, 0, 0.198);
     transition: 0.3s;
@@ -26,7 +26,7 @@
     margin-top: 13px;
 }
 
-.theme-dark .peopleListItem_d14722 {
+.theme-dark .peopleListItem_dab480 {
     backdrop-filter: blur(20px);
     border: 0px solid;
     border-radius: 5px;
@@ -39,12 +39,12 @@
     border-radius: 1px;
 }
 
-.itemCard__1f162 {
+.itemCard_b64118 {
     background-color: var(--background-floating);
     border-radius: 1px;
 }
 
-.itemCard__1f162:hover {
+.itemCard_b64118:hover {
     border-right: solid 2px var(--accent);
     background-color: var(--background-floating);
     border-radius: 1px;
@@ -54,7 +54,7 @@
 }
 
 /* Dark */
-.theme-dark .itemCard__1f162:hover {
+.theme-dark .itemCard_b64118:hover {
     border-right: solid 2px var(--accentD);
     background-color: var(--background-floating);
     border-radius: 1px;

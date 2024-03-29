@@ -1,12 +1,12 @@
 /*------------------- Source to Project Garrison --------------*/
 
 code,
-.codeBlockText__6172e,
-.codeLine__3797b,
+.codeBlockText_bcfd01,
+.codeLine__10acb,
 .markup_a7e664 code.inline,
-.after_inlineCode__2197d,
-.before_inlineCode__37e14,
-.inlineCode_d702a4 {
+.after_inlineCode__59586,
+.before_inlineCode__48f7c,
+.inlineCode__0cacf {
     font-family: mono, monospace;
 }
 
@@ -62,38 +62,38 @@ code,
   //////////////////////////////
   */
 
-.theme-dark .modeSelected__487d6 .icon_eff5d4,
-.theme-dark .modeSelected__487d6:hover .icon_eff5d4,
-.theme-dark .modeUnread_f74c03 .icon_eff5d4,
-.theme-dark .modeUnread_f74c03:hover .icon_eff5d4,
-.theme-dark .mainContent_a0b319 .overflow__87fe8,
-.theme-dark .mainContent_a0b319 {
+.theme-dark .modeSelected__473f1 .icon__67ab4,
+.theme-dark .modeSelected__473f1:hover .icon__67ab4,
+.theme-dark .modeUnreadImportant__35358 .icon__67ab4,
+.theme-dark .modeUnreadImportant__35358:hover .icon__67ab4,
+.theme-dark .mainContent__2333c .overflow__993fa,
+.theme-dark .mainContent__2333c {
     color: var(--PGColorTextD) !important;
 }
 
-.theme-dark .messageContent__21e69,
-.theme-dark .modeConnected__1c02e .name__8d1ec,
-.theme-dark .modeConnected__1c02e:hover .name__8d1ec,
-.theme-dark .modeSelected__487d6 .name__8d1ec,
-.theme-dark .modeSelected__487d6:hover .name__8d1ec,
-.theme-dark .modeUnread_f74c03 .name__8d1ec,
-.theme-dark .modeUnread_f74c03:hover .name__8d1ec,
-.theme-dark .notInteractive_a7d9fb.modeConnected__1c02e .name__8d1ec,
-.theme-dark .notInteractive_a7d9fb.modeSelected__487d6 .name__8d1ec,
-.theme-dark .title__9e2b0 {
+.theme-dark .messageContent_abea64,
+.theme-dark .modeConnected__52a8f .name__4eb92,
+.theme-dark .modeConnected__52a8f:hover .name__4eb92,
+.theme-dark .modeSelected__473f1 .name__4eb92,
+.theme-dark .modeSelected__473f1:hover .name__4eb92,
+.theme-dark .modeUnreadImportant__35358 .name__4eb92,
+.theme-dark .modeUnreadImportant__35358:hover .name__4eb92,
+.theme-dark .notInteractive_e31551.modeConnected__52a8f .name__4eb92,
+.theme-dark .notInteractive_e31551.modeSelected__473f1 .name__4eb92,
+.theme-dark .title__84e16 {
     color: var(--PGColorTextD);
 }
 
-.numberBadge__50328,
-.unreadRelevant__44f9e,
-.newBadge__7c6b4,
+.numberBadge__40d6f,
+.unreadImportant_e8bb44,
+.newBadge__4f501,
 .item_f9d377 {
     background: var(--accent) !important;
 }
 
-.theme-dark .numberBadge__50328,
-.theme-dark .unreadRelevant__44f9e,
-.theme-dark .newBadge__7c6b4,
+.theme-dark .numberBadge__40d6f,
+.theme-dark .unreadImportant_e8bb44,
+.theme-dark .newBadge__4f501,
 .theme-dark .item_f9d377 {
     background: var(--accentD) !important;
 }
