@@ -1,5 +1,5 @@
-[light]:            https://cdn.discordapp.com/attachments/1142305515439923260/1144468248541278268/espresso-light.png
-[dark]:             https://cdn.discordapp.com/attachments/1142305515439923260/1144468248134426776/espresso-dark.png
+[light]:            https://minidiscordthemes.github.io/Espresso/preview/espresso-light.png
+[dark]:             https://minidiscordthemes.github.io/Espresso/preview/espresso-dark.png
 
 [turquoise]:        https://user-images.githubusercontent.com/76500838/205454849-0cf7bbbd-3f58-4d0e-a60f-da2d75584a92.png
 [lilac]:            https://user-images.githubusercontent.com/76500838/205454611-ffa55a34-05af-4c0f-9193-a926678ef8a4.png
@@ -19,62 +19,30 @@
 [css-color]:        https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 [discord]:          https://discord.gg/uy8nKQVatp
 
-[BetterDiscord]:    https://betterdiscord.app/
 [Replugged]:        https://replugged.dev/
-[Vencord]:          https://github.com/Vendicated/Vencord
-[stylus-firefox]:   https://addons.mozilla.org/en-US/firefox/addon/styl-us/
-[stylus-chrome]:    https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 
 [shield-donate]:    https://img.shields.io/badge/Donate-ko--fi-orange?style=flat-square&logo=kofi&logoColor=orange
 [ko-fi]:            https://ko-fi.com/saltssaumure "Buy me a coffee!"
-
-[shield-bd-dl]:     https://img.shields.io/github/downloads/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/discordEspresso.theme.css?color=purple&label=Downloads&style=flat-square
 [shield-asar-dl]:   https://img.shields.io/github/downloads/MiniDiscordThemes/Espresso/net.saltssaumure.Espresso.asar?color=purple&label=Downloads&style=flat-square
 [shield-repo-size]: https://img.shields.io/github/repo-size/MiniDiscordThemes/Espresso?label=Repository&style=flat-square "Total size"
 
 [github]:           https://github.com/MiniDiscordThemes/Espresso
 [issues]:           https://github.com/MiniDiscordThemes/Espresso/issues
 [license]:          https://github.com/MiniDiscordThemes/Espresso/blob/main/LICENSE
-[.theme.css]:       https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/blob/main/discordEspresso.theme.css
-[.user.css]:        https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/raw/main/discordEspresso.user.css
 
-[themes]:           https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/tree/main/themes
-
-[espresso]: https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme
-[license-espresso]: https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/blob/main/LICENSE
-[author-espresso]: https://github.com/SlippingGitty
-
-[macos-titlebar]: https://github.com/discord-extensions/macos-titlebar
-[license-macos-titlebar]: https://github.com/discord-extensions/macos-titlebar/blob/master/LICENSE
-[author-macos-titlebar]: https://github.com/LuckFire
-
-[material-symbols]: https://github.com/google/material-design-icons
-[license-material-symbols]: https://github.com/google/material-design-icons/blob/master/LICENSE
-[author-material-symbols]: https://github.com/google
-
-[release-bd]:       https://betterdiscord.app/theme/?id=000 "BetterDiscord store page"
 [release-rp]:       https://replugged.dev/store/net.saltssaumure.Espresso "Replugged store page"
-[release-bd-gh]:    https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/releases/latest/download/discordEspresso.theme.css "Get latest release"
 [release-rp-gh]:    https://github.com/MiniDiscordThemes/Espresso/releases/latest/download/net.saltssaumure.Espresso.asar "Get latest release"
 
 # Espresso Discord Theme
 [![Buy me a coffee on ko-fi][shield-donate]][ko-fi]
-[![BetterDiscord GitHub downloads][shield-bd-dl]][release-bd-gh]
 [![Replugged GitHub downloads][shield-asar-dl]][release-rp-gh]
 [![Total repository size][shield-repo-size]][github]
 
-| Light mode                                     | Dark mode                                     |
-| ---------------------------------------------- | --------------------------------------------- |
-| ![Screenshot of Espresso in light mode][light] | ![Screenshot of Espresso in light mode][dark] |
+|            Light mode            |            Dark mode            |
+| :------------------------------: | :-----------------------------: |
+| ![Espresso in light mode][light] | ![Espresso in light mode][dark] |
 
 ## Installation
-
-### [BetterDiscord][BetterDiscord]
-1. Download `discordEspresso.theme.css`:
-    - [GitHub][release-bd-gh]
-2. Place the file in the themes folder:
-    - `Settings` > `BetterDiscord` > `Themes` > `Open Themes Folder`
-3. Toggle on the theme card.
 
 ### [Replugged][Replugged]
 #### Automatic
@@ -87,72 +55,51 @@
     - `Settings` > `Replugged` > `Themes` > `Open Themes Folder`
 3. Click `Load Missing Themes` and toggle on the theme card.
 
-### [Vencord][Vencord]
-#### Local
-1. Download `discordEspresso.theme.css`:
-    - [GitHub][release-bd-gh]
-2. Place the file in the themes folder:
-    - `Settings` > `Vencord` > `Themes` > `Local Themes` > `Open Themes Folder`
-3. Click `Load missing Themes` and toggle on the theme card.
-#### Online
-1. Paste the link in `Settings` > `Vencord` > `Themes` > `Online Themes`:
-    - `https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/main/discordEspresso.theme.css`
-
-### Browser
-1. Install Stylus for your browser:
-    - [Firefox][stylus-firefox]
-    - [Chrome][stylus-chrome]
-2. Install the userstyle:
-    - [GitHub][.user.css]
-
 ## Customisation
 
-<details>
-<summary>Customisation example screenshots</summary>
+<details><summary>Click to view screenshots</summary>
 
-![Turquoise][turquoise]
-![Lilac][lilac]
-![Newspaper][newspaper]
-![Tan][tan]
-![French Vanilla][french-vanilla]
-![Material Dark][material-dark]
-![Clear][clear]
-![Fuoco][fuoco]
-![Dark Pastel][dark-pastel]
-![Twitter Blue][twitter-blue]
-![Evening][evening]
-![Tokyo Night][tokyo-night]
-![Thinkpad][thinkpad]
-![OLED][oled]
-
+|   Theme Name   |            Image Link             |
+| :------------: | :-------------------------------: |
+|   Turquoise    |      ![Turquoise][turquoise]      |
+|     Lilac      |          ![Lilac][lilac]          |
+|   Newspaper    |      ![Newspaper][newspaper]      |
+|      Tan       |            ![Tan][tan]            |
+| French Vanilla | ![French Vanilla][french-vanilla] |
+| Material Dark  |  ![Material Dark][material-dark]  |
+|     Clear      |          ![Clear][clear]          |
+|     Fuoco      |          ![Fuoco][fuoco]          |
+|  Dark Pastel   |    ![Dark Pastel][dark-pastel]    |
+|  Twitter Blue  |   ![Twitter Blue][twitter-blue]   |
+|    Evening     |        ![Evening][evening]        |
+|  Tokyo Night   |    ![Tokyo Night][tokyo-night]    |
+|    Thinkpad    |       ![Thinkpad][thinkpad]       |
+|      OLED      |           ![OLED][oled]           |
 </details>
-
-### BetterDiscord
-1. Open `Settings` > `BetterDiscord` > `Themes`.
-2. Click the pencil icon on this theme.
-3. Edit according to [the instructions][themes] and save changes.
 
 ### Replugged
 1. Enable `Automatically Apply Quick CSS` in `Settings` > `Replugged` > `General`.
 2. Open `Settings` > `Replugged` > `Quick CSS`.
-3. Copy and paste the contents of a [theme file][themes] and save.
-
-### Vencord
-#### Local
-1. `Open Themes Folder` in `Settings` > `Vencord` > `Themes` > `Local Themes`
-3. Open `discordEspresso.theme.css` with your favourite text editor.
-4. Edit according to [the instructions][themes] and save.
-#### Online
-1. `Enable Custom CSS` in `Settings` > `Vencord` > `Vencord` and click `Open QuickCSS File`.
-2. Copy and paste the contents of a [theme file][themes].
+3. Copy and paste the contents of a [theme file](https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme/tree/main/themes) and save.
 
 ## License
-[MIT License][license]
+[MIT license][license]
 
-### Included
-- [Discord Espresso][espresso] by [Vozer][author-espresso] - [MIT License][license-espresso]
-- [macOS Titlebar][macos-titlebar] by [LuckFire][author-macos-titlebar] - [MIT License][license-macos-titlebar]
-- [Material Symbols][material-symbols] by [Google][author-material-symbols] - [Apache License 2.0][license-material-symbols]
+## Credits
+### Sources
+[espresso]: https://github.com/SlippingGittys-Discord-Themes/Espresso-Discord-Theme
+- [Discord Espresso][espresso] by [Vozer](https://github.com/SlippingGitty) - MIT license
+
+### Themes
+[macostitlebar]: https://github.com/discord-extensions/macos-titlebar
+- [macOS Titlebar][macostitlebar] by [Discord Extensions](https://github.com/discord-extensions) ([LuckFire](https://github.com/LuckFire)) - MIT license
+
+### Assets
+[materialsymbols]: https://github.com/google/material-design-icons
+- [Material Symbols][materialsymbols] by [Google](https://github.com/google) - Apache License 2.0
+
+### Fonts
+- Product Sans by Google
 
 ## Questions or suggestions?
 - Post [an issue][issues] on GitHub.
