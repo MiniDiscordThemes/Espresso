@@ -14,7 +14,7 @@
       "github": "SlippingGittys-Discord-Themes"
     }
   ],
-  "version": "3.3.0",
+  "version": "3.3.1",
   "updater": {
     "type": "store",
     "id": "net.saltssaumure.Espresso"
@@ -24,7 +24,7 @@
   "main": "scss/espresso.scss",
   "source": "https://github.com/MiniDiscordThemes/Espresso",
   "image": [
-    "https://i.imgur.com/w1hj1Mw.png",
-    "https://i.imgur.com/pDAEZQB.png"
+    "https://minidiscordthemes.github.io/Espresso/preview/espresso-dark.png",
+    "https://minidiscordthemes.github.io/Espresso/preview/espresso-light.png"
   ]
 }
